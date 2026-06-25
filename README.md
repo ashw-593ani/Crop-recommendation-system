@@ -4,7 +4,7 @@ This project predicts the **most suitable crop** to grow based on soil, weather,
 
 ## Live Demo
 The app is hosted and can be accessed here:  
-[Crop Recommendation System](https://crop-recommendation-system-s6wd.onrender.com)
+[Crop Recommendation System](https://crop-recommendation-system-mzwc.vercel.app/)
 
 ## Features
 The system recommends crops based on the following input features:
